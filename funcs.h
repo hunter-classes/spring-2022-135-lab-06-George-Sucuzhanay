@@ -1,3 +1,4 @@
 #pragma once
 
-// add prototypes here
+char shiftChar(char o, int sh);
+int charIndex(char o);
